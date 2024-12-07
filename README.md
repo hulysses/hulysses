@@ -1,12 +1,24 @@
 <!--[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Hulysses+Danciger+Magalhães+Fogaça;I+study+software+engineering+at+FAG;Be+Welcome!+:%29)](https://git.io/typing-svg) -->
 
+Português - 🇧🇷
+
 👋🏻 Prazer! Sou Hulysses Fogaça, desenvolvedor Full Stack com experiência em Java, Spring Boot, JavaScript, React.js, Node.js e PostgreSQL, apaixonado por tecnologia e por transformar ideias em soluções escaláveis e eficientes.
 
 🎓 Atualmente, estou cursando Engenharia de Software, sempre valorizando o aprendizado contínuo e a troca de conhecimento para me manter alinhado com as demandas e tendências do mercado.
 
 🥇 Minha visão de futuro é crescer continuamente como profissional, aprimorar minhas habilidades e, em breve, assumir o desafio de liderar equipes como Tech Lead.
 
-<hr>
+---
+
+English - 🇺🇸
+
+👋🏻 Pleasure to meet you! I'm Hulysses Fogaça, a Full Stack Developer with experience in Java, Spring Boot, JavaScript, React.js, Node.js, and PostgreSQL. I'm passionate about technology and transforming ideas into scalable and efficient solutions.
+
+🎓 I'm currently pursuing a degree in Software Engineering, always valuing continuous learning and knowledge sharing to stay aligned with market demands and trends.
+
+🥇 My vision for the future is to grow continuously as a professional, enhancing my skills, and soon taking on the challenge of leading teams as a Tech Lead.
+
+---
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=hulysses&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Hulysses Danciger Magalhães Fogaça github stats" /> 
