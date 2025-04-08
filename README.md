@@ -1,18 +1,20 @@
-<!--[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Hulysses+Danciger+Magalhães+Fogaça;I+study+software+engineering+at+FAG;Be+Welcome!+:%29)](https://git.io/typing-svg) -->
+<!--[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Hulysses+Danciger+Magalhães+Fogaça;I+study+software+engineering+at+FAG;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 👋🏻 Pleasure to meet you! I'm Hulysses Fogaça, a Full Stack Developer with experience in Java, Spring Boot, JavaScript, React.js, Node.js, and PostgreSQL. I'm passionate about technology and transforming ideas into scalable and efficient solutions.
 
 🎓 I'm currently pursuing a degree in Software Engineering, always valuing continuous learning and knowledge sharing to stay aligned with market demands and trends.
 
 🥇 My vision for the future is to grow continuously as a professional, enhancing my skills.
-
 ---
+-->
+
+
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=hulysses&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Hulysses Danciger Magalhães Fogaça github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hulysses&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
-
+<!--
 ### Social media:
 [![Linkedin: Hulysses](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hulysses/)](https://www.linkedin.com/in/hulysses/)
     
@@ -46,4 +48,4 @@
 ### IDEs:
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white)
-![NetBeans](https://img.shields.io/badge/-NetBeans-1B6AC6?style=flat&logo=apachenetbeanside&logoColor=white)
+![NetBeans](https://img.shields.io/badge/-NetBeans-1B6AC6?style=flat&logo=apachenetbeanside&logoColor=white)  -->
