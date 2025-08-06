@@ -1,13 +1,11 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Be+Welcome!+:%29;My+name+is+Hulysses+Danciger+Magalhães+Fogaça;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=My+name+is+Hulysses+Danciger+Magalhães+Fogaça;)](https://git.io/typing-svg)
 
 👋🏻 Pleasure to meet you! I'm Hulysses Fogaça, a Full Stack Developer with experience in Java, Spring Boot, JavaScript, React.js, Node.js, and PostgreSQL. I'm passionate about technology and transforming ideas into scalable and efficient solutions.
 
-🎓 I'm currently pursuing a degree in Software Engineering, always valuing continuous learning and knowledge sharing to stay aligned with market demands and trends.
+🎓 I am currently studying Software Engineering, always valuing continuous learning and knowledge sharing to stay aligned with market demands and trends.
 
 🥇 My vision for the future is to grow continuously as a professional, enhancing my skills.
-
-
 
 <div align="center">  
 <!--   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=hulysses&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Hulysses Danciger Magalhães Fogaça github stats" />  -->
